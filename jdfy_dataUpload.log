@@ -1,0 +1,39 @@
+2023-02-27 10:22:19,249 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-9090-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-02-27 10:22:19,456 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-2] Deleting table %s...
+
+2023-02-27 10:22:28,426 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-2] applicant-track-record was successfully deleted!
+2023-02-27 10:22:47,418 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-3] Status : 200
+2023-02-27 10:22:47,419 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-3] Table Name : applicant-track-record
+2023-02-27 11:25:59,272 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-6] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@212cf26f uploading started
+2023-02-27 11:26:00,546 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-6] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@212cf26f uploaded successfully
+2023-02-27 14:27:30,510 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-9] Deleting table %s...
+
+2023-02-27 14:27:36,916 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-9] applicant-track-record was successfully deleted!
+2023-02-27 14:27:44,074 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-10] Status : 200
+2023-02-27 14:27:44,074 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-10] Table Name : applicant-track-record
+2023-02-27 14:28:15,354 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-1] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4f490729 uploading started
+2023-02-27 14:28:20,257 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-1] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4f490729 uploaded successfully
+2023-02-27 14:29:12,546 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-2] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7bcde1db uploading started
+2023-02-27 14:29:15,349 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-2] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7bcde1db uploaded successfully
+2023-02-27 14:30:00,773 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-3] Deleting table %s...
+
+2023-02-27 14:30:07,162 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-3] applicant-track-record was successfully deleted!
+2023-02-27 14:30:14,914 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-4] Status : 200
+2023-02-27 14:30:14,914 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-4] Table Name : applicant-track-record
+2023-02-27 14:35:30,828 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-7] Deleting table %s...
+
+2023-02-27 14:35:37,178 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-7] applicant-track-record was successfully deleted!
+2023-02-27 14:38:32,659 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-10] Status : 200
+2023-02-27 14:38:32,659 INFO com.jdfy.uploadcsvfile.service.TableService [http-nio-9090-exec-10] Table Name : applicant-track-record
+2023-02-27 14:39:17,025 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] Spliting started
+2023-02-27 14:39:17,026 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] file is [Ljava.io.File;@6d2073b6
+2023-02-27 14:39:17,027 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] Total source file count is :1
+
+2023-02-27 14:39:17,028 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] File name Is :feb2023Track.csv
+2023-02-27 14:39:17,267 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] File total rows count is :--------------   177986
+2023-02-27 14:39:17,267 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] Each splitted file line count is :4
+
+2023-02-27 14:39:17,775 INFO com.jdfy.uploadcsvfile.service.CsvFileSplit [http-nio-9090-exec-1] 
+ Splitted CSV files stored location is :C:\javazip\uploadcsvfile\.\src\main\resources\inputdata
+2023-02-27 14:40:04,248 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-2] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@b8ab18d uploading started
+2023-02-27 14:40:05,442 INFO com.jdfy.uploadcsvfile.service.FileService [http-nio-9090-exec-2] org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@b8ab18d uploaded successfully
